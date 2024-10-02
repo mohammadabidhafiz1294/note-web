@@ -1,4 +1,4 @@
-baseURL: https://mohammadabidhafiz1294.github.io/physics-note-web/
+baseURL: https://mohammadabidhafiz1294.github.io/note-web/
 
 # Book configuration
 disablePathToLower: true
@@ -29,7 +29,6 @@ menu:
       weight: 10
 
 params:
-
   name: Ben Cuan
   title: 📓 Amethyst
 
@@ -79,10 +78,8 @@ params:
     operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 
   # Site description and title
-  description:
-    Notes, hosted by bencuan
+  description: Notes, hosted by bencuan
 
-  
   # Footer links
   links:
     - link_name: Website
@@ -128,7 +125,6 @@ params:
   # - In git information
   # - In blog posts
   BookDateFormat: "January 2, 2006"
-
 
   # (Optional, default true) Enables comments template on pages
   # By default partals/docs/comments.html includes Disqus template
